@@ -1,0 +1,78 @@
+{
+  "name": "Anandh Kumar",
+  "title": "Software Engineer",
+  "contact": {
+    "email": "accetanandhmca@gmail.com",
+    "phone": "8056589306",
+    "address": "79/B, Valliyappa Garden, Palani , Tamilnadu, 624601"
+  },
+  "summary": "4 years of Experience in software engineer with a passion for building innovative solutions.",
+  "skills": [
+    "Programming languages: Java, Python",
+    "Web technologies: HTML, CSS, JavaScript",
+    "Frameworks: Angular, React, Node.js",
+    "Databases: MySQL, MongoDB",
+    "Version control: Git",
+    "Problem-solving and analytical skills",
+    "Good communication and teamwork abilities"
+  ],
+  "experience": [
+    {
+      "position": "Software Engineer",
+      "company": "Neonicz Software Solution PVt. Ltd",
+      "location": "Thiruvananthapuram , Kerala",
+      "start_date": "2021-01-13",
+      "end_date": "2022-09-29",
+      "description": "Developed and maintained software solutions for clients. Collaborated with cross-functional teams to deliver high-quality projects within deadlines."
+    },
+    {
+      "position": "Android Application Development",
+      "company": "MACS Info Solutions PVt. Ltd",
+      "location": "Erode, Tamilnadu",
+      "start_date": "2015-06-01",
+      "end_date": "2018-07-31",
+      "description": "Freshere in the development and testing of Mobile Application. Gained hands-on experience in Android application developement on Native Android Studio."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Application",
+      "university": "Anna University",
+      "location": "Karaikudi, Tamilnadu",
+      "completion_date": "2014-05-31"
+    }
+  ],
+  "projects": [
+    {
+      "title": "SPOTBAY",
+      "description": "SPOTBAY is a Gamification Web and Mobile application for Customer Engagement using Spring Reactive.",
+      "highlights": [
+        "Worked on Front-End Design and Development using Angular Ionic.",
+        "Support team with microservices and configuration using Spring Reactive and Spring Cloud."
+      ]
+    },
+    {
+      "title": "STOMAD",
+      "description": "Stock Management and Administration is a real-time inventory management system and analytics for Oman Client.",
+      "highlights": [
+        "Worked on Front-End Design and Development with D3 Charts.",
+        " Support on API calls using Spring Boot."
+      ]
+    },
+    {
+      "title": "ZAMBART",
+      "description": "ZAMBART(BPM) is a Business Process Management using Spring Activiti which is for Zambia Client.",
+      "highlights": [
+        "Worked on Front-End Design and Development, BPM diagrams and Spring Activiti Programming."
+      ]
+    },
+    {
+      "title": "SmartCity LEIP",
+      "description": "LEIP is a project conceived by the Ministry Housing and Urban Affairs as a part of the India Smart Cities Fellowship program.",
+      "highlights": [
+        "Worked on Front-End Design and Development, D3Charts."
+      ]
+    }
+  ]
+}
+
