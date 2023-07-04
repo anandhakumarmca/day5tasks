@@ -12,12 +12,12 @@ const data = {
   for (let i = 0; i < keys.length; i++) {
     const key = keys[i];
     const value = data[key];
-    console.log(`${key}: ${value}`);
+    console.log(`${key}: ${value}`);// given as string template in console to display key and value
   }
 
 //iterate all JSON objects using  for..in 
   for (const key in data) {
-    console.log(`${key}: ${data[key]}`);
+    console.log(`${key}: ${data[key]}`);// given as string template in console to display key and value
   }
 
   //iterate JSON Object hobbies data using  for..of 
@@ -28,6 +28,6 @@ const data = {
 
   //iterate all JSON objects using  for..each
   Object.keys(data).forEach((key) => {
-    console.log(`${key}: ${data[key]}`);
+    console.log(`${key}: ${data[key]}`);// given as string template in console to display key and value
   });
 
